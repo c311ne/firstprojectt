@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+</head>
+
+
+<style> 
+
+.trees {color:blue;}
+.list {color:green;}
+
+#id {background-color:lightyellow;}
+
+
+</style>
+
+<h1>This is why i dont like <span class="trees">trees</span> (anymore) </h1>
+
+<h1> <span class="list"> the list</span> </h1>
+
+<ol> t </ol>
+<div id="id"><li>theyre green</li>
+<li>theyre basically a bush on a long stick</li>
+<li>bushes and sticks dont sit well with me</li>
+<li>that one wall of trees in the school hall will not stop screaming at me</li>
+<li>🚰</li>
+<li> pears grow on trees </li>
+<li> and i hate pears❌🍐  </li></div>
+
+</body>
+</html>
