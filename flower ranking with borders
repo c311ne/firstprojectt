@@ -12,6 +12,10 @@ h1 {
   text-align: center;
 }
 
+h3 {
+color: mediumseagreen;
+text-align: center;
+} 
 p {
   font-family: verdana;
   font-size: 20px;
@@ -33,6 +37,44 @@ border: 5px solid
 }
 
 .border { border-style: groove; border-color: rgb(255, 215, 0)}
+.border2 { border-style: ridge; border-color: rgb(192, 192, 192)}
+.border3 { border-style: double; border-color: rgb(0, 0, 0)}
+</style>
+</head>
+<body>
+ 
+<h1>ranking of flowers~~
+</h1>
+
+<h3> (btw idk why the borders are so long) </h3>
+<p> <div class="border">
+
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVpKibr4j231W76H7rOJpQPp1dDPiCCkkolg&usqp=CAU"> </div> </p>
+
+
+
+
+
+
+<p> <div class="border2"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgGrrH6uGJqSb9HQAbK-emUyHVS3FzcSEF1g&usqp=CAU ">
+
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKkPE9Pap3wxFnrI_Wki3Pg2fkRmWob0mtvw&usqp=CAU"> </div></p>
+
+
+
+
+
+<p> <div class="border3"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLbGl6F4yiUwbvYnfIgQ90UGysLVu480Zs5Q&usqp=CAU">
+
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZoHdcPXlgGbLVtVJON3pEQpwPnHICpRFOMg&usqp=CAU"> 
+
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQai2A_83rc6lNjFTBcdAL3Ent2cq5HfU0NSg&usqp=CAU"> </div></p>
+
+
+</body>
+</html>
+
+
 .border2 { border-style: ridge; border-color: rgb(192, 192, 192)}
 .border3 { border-style: double; border-color: rgb(0, 0, 0)}
 </style>
