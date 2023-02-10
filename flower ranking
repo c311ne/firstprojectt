@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {
+  background-color: lightgreen;
+}
+
+h1 {
+  color: black;
+  text-align: center;
+}
+
+p {
+  font-family: verdana;
+  font-size: 20px;
+}
+
+.frame {
+border: 5px solid
+
+}
+
+.frame2 {
+border: 5px solid
+
+}
+
+.frame3 {
+border: 5px solid
+
+}
+
+.frame { border-color: gold;}
+.frame2 { border-color: black;}
+.frame3 { border-color: silver;}
+</style>
+</head>
+<body>
+
+<h1>ranking of flowers~~</h1>
+<p> <div class="frame">
+
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVpKibr4j231W76H7rOJpQPp1dDPiCCkkolg&usqp=CAU"> </div> </p>
+
+
+
+
+
+
+<p> <div class="frame2"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgGrrH6uGJqSb9HQAbK-emUyHVS3FzcSEF1g&usqp=CAU ">
+
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKkPE9Pap3wxFnrI_Wki3Pg2fkRmWob0mtvw&usqp=CAU"> </div></p>
+
+
+
+
+
+<p> <div class="frame3"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLbGl6F4yiUwbvYnfIgQ90UGysLVu480Zs5Q&usqp=CAU">
+
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZoHdcPXlgGbLVtVJON3pEQpwPnHICpRFOMg&usqp=CAU"> 
+
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQai2A_83rc6lNjFTBcdAL3Ent2cq5HfU0NSg&usqp=CAU"> </div></p>
+
+
+</body>
+</html>
