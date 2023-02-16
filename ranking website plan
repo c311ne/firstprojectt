@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<style>
+
+	h1 {
+    color: mediumseagreen;
+    text-align: center
+    }
+    
+    p{
+    color: green}
+    
+    p{
+    text-align: center
+    }
+
+	body {
+    background-attachment: fixed;
+    background-position: center;
+    }
+    
+    body {
+    background-image: url("https://www.toptal.com/designers/subtlepatterns/uploads/leaves.png");
+    
+    
+    
+</style>
+
+<h1>Webpage Plan:</h1>
+<p> What I ranked in my ranking assignment was pictures of flowers, I looked up pictures of flowers in the internet, and chose the ones I found prettiest and put them higher on the ranking. For the bottom flower, I looked up "weird flowers" but they were still good-looking so I clicked a random one and chose for it to be the "ugliest" one out of all. </p>
+
+</body>
+</html>
+
