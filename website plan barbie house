@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {
+  background-color: orange;
+}
+
+h1 {
+  color: pink;
+  text-align: center;
+}
+
+p {
+  font-family: verdana;
+  font-size: 20px;
+  text-align: center;
+}
+</style>
+</head>
+<body>
+
+<h1>Website Plan</h1>
+<p>The plan is to make a "real-estate" website with photos of weird looking houses. The reason I'm doing it is sort of random, one of my neighbours painted their house a bright obnoxious pink. I found it funny, as I have to walk past what looks like Barbie everyday. </p>
+
+<img src="https://www.rd.com/wp-content/uploads/2015/09/GettyImages-459000267-2-scaled.jpg?fit=700,1024>">
+
+</body>
+</html>
+
